@@ -1,6 +1,20 @@
 {
-  "name": "mqtt",
-  "version": "0.0.0",
+  "name": "@denherrring/ng-mqtt",
+  "version": "1.0.0-beta.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DenHerrRing/ng-mqtt.git"
+  },
+  "keywords": [
+    "angular",
+    "angular10",
+    "ng",
+    "mqtt"
+  ],
+  "author": {
+    "name": "denherrring"
+  },
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +23,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "public": true,
   "dependencies": {
     "@angular/animations": "~10.0.9",
     "@angular/common": "~10.0.9",

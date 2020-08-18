@@ -2,7 +2,7 @@
 This MQTT-Service/Wrapper is a library for Angular 10.
 
 ## installation
-`npm install ng-mqtt --save`
+`npm i @denherrring/ng-mqtt --save`
 
 ## Usage
 ```
